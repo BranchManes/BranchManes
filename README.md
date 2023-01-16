@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BranchManes
-- 👀 I’m interested in Java
+- 👀 I’m interested in SQL and Python
 - 🌱 I’m currently learning
 
 
